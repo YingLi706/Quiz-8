@@ -18,6 +18,6 @@ A digital embroidery or cross stitch pattern technique could help create the sti
 
 Example implementation: [https://editor.p5js.org/losylam/sketches/ObR7xc9iK](https://editor.p5js.org/losylam/sketches/ObR7xc9iK)
 
-p5.js reference: [https://github.com/nkymut/p5.embroider](https://github.com/nkymut/p5.embroider)
+Additional code resource: [https://github.com/nkymut/p5.embroider](https://github.com/nkymut/p5.embroider)
 
 Visual reference: [https://openprocessing.org/sketch/1618268](https://openprocessing.org/sketch/1618268)
